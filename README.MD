@@ -90,7 +90,7 @@ qGlstT9C9DE000YM+d0IAAAAFWdpdGh1Yi1hY3Rpb25zLWRlcGxveQ==
 Haz un push a la rama `main`. GitHub Actions subirá tu sitio automáticamente al servidor.
 Puedes verlo en:
 ```
-https://ccavila.dev/tu-nombre/
+https://ccavila.dev/evento/tecuruapan/tu-nombre/
 ```
 
 ¡Y eso es todo! 🎉
